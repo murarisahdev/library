@@ -9,7 +9,7 @@ django-braces==1.13.0
 django-cors-headers==3.0.2
 django-oauth-toolkit==1.2.0
 django-rest-framework-social-oauth2==1.1.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 idna==2.8
 importlib-metadata==0.22
 kombu==4.6.4
